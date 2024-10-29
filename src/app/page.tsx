@@ -1,3 +1,4 @@
+'use client'
 import { useState } from "react";
 import CountrySelect from "@/components/CountrySelect";
 import CultureTable from "@/components/CultureTable";

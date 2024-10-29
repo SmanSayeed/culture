@@ -1,3 +1,4 @@
+'use client'
 import { Country, countries } from "@/lib/countries";
 
 interface Props {

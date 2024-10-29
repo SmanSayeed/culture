@@ -1,3 +1,4 @@
+'use client'
 interface CultureItem {
     key: string;
     value: string;
