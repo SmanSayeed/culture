@@ -1,20 +1,24 @@
-'use server'
-import { getCountries } from "@/actions/countryController";
-import { Response } from "@/actions/response";
-import { Country } from "@/lib/countries";
-import CountryInputButton from "../components/CountryInputButton";
+import { useState } from "react";
+import CountrySelect from "@/components/CountrySelect";
+import CultureTable from "@/components/CultureTable";
+import { fetchCultureData } from "@/lib/actions";
 
-export default async function Home() {
-  const countries: Response<Country[]> = await getCountries();
- 
+const Home = () => {
+  const [selectedCountry, setSelectedCountry] = useState("");
+  const [cultureData, setCultureData] = useState([]);
+
+  const handleCountrySelect = async (countryCode: string) => {
+    setSelectedCountry(countryCode);
+    const data = await fetchCultureData(countryCode);
+    setCultureData(data);
+  };
+
   return (
-    <>
-        <CountryInputButton />
-         {
-        countries?.data.length>0 && countries?.data.map((country) => (
-          <div key={country.name}>{country.name}</div>
-        ))
-      }
-    </>
+    <div>
+      <CountrySelect selectedCountry={selectedCountry} onSelectCountry={handleCountrySelect} />
+      <CultureTable cultureData={cultureData} onEdit={() => {}} onDelete={() => {}} />
+    </div>
   );
-}
+};
+
+export default Home;
