@@ -1,14 +1,20 @@
+'use server'
 import { getCountries } from "@/actions/countryController";
+import { Response } from "@/actions/response";
+import { Country } from "@/lib/countries";
+import CountryInputButton from "../components/CountryInputButton";
 
 export default async function Home() {
-  const countries = await getCountries();
+  const countries: Response<Country[]> = await getCountries();
+ 
   return (
-    <div className="">
-      {
-        countries.map((country) => (
+    <>
+        <CountryInputButton />
+         {
+        countries?.data.length>0 && countries?.data.map((country) => (
           <div key={country.name}>{country.name}</div>
         ))
       }
-    </div>
+    </>
   );
 }
