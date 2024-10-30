@@ -1,7 +1,3 @@
-import { culture } from '../../.history/src/utils/culture_20241030153316';
-
-
-
 export type cultureType = {
     key: string;
     value: string;
