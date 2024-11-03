@@ -52,7 +52,7 @@ export const cultureData:Array<cultureDataType> =[
     },
     {
         country:"Peru",
-        code:"pr",
+        code:"PE",
         culture:[
             { key: "Centralized decision-making", value: "High" },
             { key: "Managers’ influence", value: "High" },
