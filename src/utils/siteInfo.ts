@@ -1,3 +1,3 @@
 export const siteInfo={
-    siteTitle:"Cultural Information",
+    siteTitle:"Framework to Identify Cultural Influences in RE-related Activities",
 }
