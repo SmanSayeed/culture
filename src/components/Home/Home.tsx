@@ -12,6 +12,7 @@ type Props = {};
 export interface Option {
   label: string;
   value: string;
+  description?:string
 }
 
 const Home: React.FC<Props> = () => {

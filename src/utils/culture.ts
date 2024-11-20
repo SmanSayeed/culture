@@ -1,6 +1,7 @@
 export type cultureType = {
     key: string;
     value: string;
+    description?:string;
 }
 
 export type cultureDataType = {
@@ -14,10 +15,10 @@ export const cultureData:Array<cultureDataType> =[
         country:"Bangladesh",
         code:"BD",
         culture:[
-            { key: "Centralized decision-making", value: "High" },
+            { key: "Centralized decision-making", value: "High", description:"Centralized decision-making is the description" },
             { key: "Managers’ influence", value: "High" },
             { key: "Deference", value: "High" },
-            { key: "Establish trust", value: "High" },
+            { key: "Establish trust", value: "High",description:"Establish trust is the description" },
             { key: "Solving conflicts by favoritism", value: "Moderate" },
             { key: "Avoiding conflicts", value: "Moderate" },
             { key: "Hierarchical structure", value: "Moderate" },
