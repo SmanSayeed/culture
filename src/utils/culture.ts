@@ -147,12 +147,19 @@ export const cultureData:Array<cultureDataType> =[
         country:"Australia",
         code:"AU",
         culture:[
-            { key: "Subordinate avoid taking risks", value: "Moderate" },
-            { key: "Clients’ resistance", value: "High" },
-            { key: "Belief in expertise", value: "Low" },
-            { key: "Aiming for quick results", value: "N/A" },
-            { key: "Relying on previous projects", value: "Low" },
-            { key: "Dress code", value: "N/A" }
+            { key: "Openness and Honesty", value: "High" },
+            { key: "Gender preference", value: "High" },
+            { key: "Aiming for quick results", value: "Moderate" },
+            { key: "Face saving", value: "Moderate" },
+            { key: "Take responsibility", value: "Low" },
+            { key: "Hidden agenda", value: "Low" },
+            { key: "Solution-focused requirements", value: "Low" },
+            { key: "Collaborative decision-making", value: "N/A" },
+            { key: "Managers’ influence", value: "N/A" },
+            { key: "Establish trust", value: "N/A" },
+            { key: "Solving conflicts by compromising", value: "N/A" },
+            { key: "Recognition of uncertainty", value: "N/A" },
+            { key: "Clients’ resistance", value: "N/A" }
         ]
     }
 ]
