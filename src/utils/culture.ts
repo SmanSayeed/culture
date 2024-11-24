@@ -147,8 +147,7 @@ export const cultureData:Array<cultureDataType> =[
         country:"Australia",
         code:"AU",
         culture:[
-            { key: "Openness and Honesty", value: "High", description:"Openness is about sharing ideas freely, while honesty means being truthful. In individualistic cultures like the US, people are direct and open, valuing clear communication.
-In collectivist cultures like China, people may express honesty more subtly to maintain harmony." },
+            { key: "Openness and Honesty", value: "High", description:"Openness is about sharing ideas freely, while honesty means being truthful. In individualistic cultures like the US, people are direct and open, valuing clear communication. In collectivist cultures like China, people may express honesty more subtly to maintain harmony." },
             { key: "Gender preference", value: "High", description:""},
             { key: "Aiming for quick results", value: "Moderate", description:""},
             { key: "Face saving", value: "Moderate" , description:""},
