@@ -148,18 +148,18 @@ export const cultureData:Array<cultureDataType> =[
         code:"AU",
         culture:[
             { key: "Openness and Honesty", value: "High", description:"Openness is about sharing ideas freely, while honesty means being truthful. In individualistic cultures like the US, people are direct and open, valuing clear communication. In collectivist cultures like China, people may express honesty more subtly to maintain harmony." },
-            { key: "Gender preference", value: "High", description:""},
-            { key: "Aiming for quick results", value: "Moderate", description:""},
-            { key: "Face saving", value: "Moderate" , description:""},
-            { key: "Take responsibility", value: "Low" , description:""},
-            { key: "Hidden agenda", value: "Low" , description:""},
-            { key: "Solution-focused requirements", value: "Low" , description:""},
-            { key: "Collaborative decision-making", value: "N/A" , description:""},
-            { key: "Managers’ influence", value: "N/A" , description:""},
-            { key: "Establish trust", value: "N/A" , description:""},
-            { key: "Solving conflicts by compromising", value: "N/A" , description:""},
-            { key: "Recognition of uncertainty", value: "N/A" , description:""},
-            { key: "Clients’ resistance", value: "N/A" , description:""}
+            { key: "Gender preference", value: "High", description:"Dummy"},
+            { key: "Aiming for quick results", value: "Moderate", description:"Dummy"},
+            { key: "Face saving", value: "Moderate" , description:"Dummy"},
+            { key: "Take responsibility", value: "Low" , description:"Dummy"},
+            { key: "Hidden agenda", value: "Low" , description:"Dummy"},
+            { key: "Solution-focused requirements", value: "Low" , description:"Dummy"},
+            { key: "Collaborative decision-making", value: "N/A" , description:"Dummy"},
+            { key: "Managers’ influence", value: "N/A" , description:"Dummy"},
+            { key: "Establish trust", value: "N/A" , description:"Dummy"},
+            { key: "Solving conflicts by compromising", value: "N/A" , description:"Dummy"},
+            { key: "Recognition of uncertainty", value: "N/A" , description:"Dummy"},
+            { key: "Clients’ resistance", value: "N/A" , description:"Dummy"}
         ]
     }
 ]
