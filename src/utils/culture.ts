@@ -12,26 +12,7 @@ export type cultureDataType = {
 
 export const cultureData:Array<cultureDataType> =[
     
-    {
-        country:"Albania",
-        code:"AL",
-        culture:[
-            { key: "Centralized decision-making", value: "High", description:"Centralized decision-making is the description" },
-            { key: "Managers’ influence", value: "High" },
-            { key: "Centralised decision-making", value: "High", description:"Centralized decision-making refers to a process where decisions about requirements, priorities, and solutions are made by a single authority or a small group of individuals, rather than being distributed among multiple stakeholders.”},            
-            { key: "Managers’ influence ", value: "High", description:"Managers' influence refers to the impact that managerial decisions, priorities, and authority have on shaping the direction, scope, and implementation of requirements.”},
-            {key: "Deference ", value: "High", description:"Deference refers to showing respect or yielding to the opinions, decisions, or authority of others, often influencing how stakeholders interact, collaborate, and make decisions within the process.”},
-            {key: "Establish trust ", value: "High", description:"Establish trust refers to building confidence among stakeholders through transparent communication, reliability, and consistent actions, which fosters cooperation and effective collaboration throughout the process.”},
-            {key: "Building relationships ", value: "High", description:"Building relationships involves establishing trust, open communication, and mutual respect among stakeholders, which fosters collaboration, facilitates the gathering of accurate requirements, and supports long-term project success.”},
-            {key: "Communication context ", value: "High", description:"Communication context refers to the surrounding factors, such as cultural norms, language, interpretation, and understanding among stakeholders.”},
 
-
-        ]
-    },
-
-
-    
-    
     {
         country:"Bangladesh",
         code:"BD",
