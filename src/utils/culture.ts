@@ -54,5 +54,15 @@ export const cultureData:Array<cultureDataType> =[
             { key: "Clients’ resistance", value: "N/A" , description:"Clients' resistance refers to the reluctance or opposition from clients to accept proposed requirements, changes, or solutions, often due to concerns about cost, usability, or alignment with their needs or expectations."}
         ]
     }
+
+    {
+        country:"",
+        code:"",
+        culture:[
+            
+        ]
+    }
+
+
 ]
   
