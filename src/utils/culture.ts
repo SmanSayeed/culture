@@ -150,16 +150,16 @@ export const cultureData:Array<cultureDataType> =[
             { key: "Openness and Honesty", value: "High", description:"Openness is about sharing ideas freely, while honesty means being truthful. In individualistic cultures like the US, people are direct and open, valuing clear communication. In collectivist cultures like China, people may express honesty more subtly to maintain harmony." },
             { key: "Gender preference", value: "High", description:"Gender Preference reflects cultural priorities between competitive, performance-driven traits and collaborative, user-centered values."},
             { key: "Aiming for quick results", value: "Moderate", description:"Aiming for quick results reflects a cultural preference for immediate achievements and efficiency over long-term planning and gradual progress."},
-            { key: "Face saving", value: "Moderate" , description:"Dummy"},
-            { key: "Take responsibility", value: "Low" , description:"Dummy"},
-            { key: "Hidden agenda", value: "Low" , description:"Dummy"},
-            { key: "Solution-focused requirements", value: "Low" , description:"Dummy"},
-            { key: "Collaborative decision-making", value: "N/A" , description:"Dummy"},
-            { key: "Managers’ influence", value: "N/A" , description:"Dummy"},
-            { key: "Establish trust", value: "N/A" , description:"Dummy"},
-            { key: "Solving conflicts by compromising", value: "N/A" , description:"Dummy"},
-            { key: "Recognition of uncertainty", value: "N/A" , description:"Dummy"},
-            { key: "Clients’ resistance", value: "N/A" , description:"Dummy"}
+            { key: "Face saving", value: "Moderate" , description:"Face saving reflects a cultural emphasis on maintaining respect and avoiding embarrassment, influencing how feedback is given, decisions are communicated, and conflicts are managed."},
+            { key: "Take responsibility", value: "Low" , description:"Take responsibility reflects a cultural tendency to prioritize accountability and ownership in decision-making and task completion."},
+            { key: "Hidden agenda", value: "Low" , description:"Hidden agenda refers to the presence of unspoken motives or goals that influence stakeholder interactions and decision-making, potentially impacting transparency and collaboration."},
+            { key: "Solution-focused requirements", value: "Low" , description:"Solution-focused requirements emphasize defining needs based on predefined solutions, often prioritizing implementation details over exploring underlying problems or user needs."},
+            { key: "Collaborative decision-making", value: "N/A" , description:"Collaborative decision-making involves engaging multiple stakeholders to collectively analyze, discuss, and agree on requirements, fostering shared ownership and diverse perspectives."},
+            { key: "Managers’ influence", value: "N/A" , description:"Managers' influence refers to the impact that managerial decisions, priorities, and authority have on shaping the direction, scope, and implementation of requirements."},
+            { key: "Establish trust", value: "N/A" , description:"Establish trust refers to building confidence among stakeholders through transparent communication, reliability, and consistent actions, which fosters cooperation and effective collaboration throughout the process."},
+            { key: "Solving conflicts by compromising", value: "N/A" , description:"Solving conflicts by compromising involves finding a middle ground between differing stakeholder interests or priorities, ensuring that all parties make concessions to reach an acceptable solution."},
+            { key: "Recognition of uncertainty", value: "N/A" , description:"Recognition of uncertainty involves acknowledging and addressing unknowns, ambiguities, or risks in the requirements process, allowing for flexibility and adaptability in decision-making and planning."},
+            { key: "Clients’ resistance", value: "N/A" , description:"Clients' resistance refers to the reluctance or opposition from clients to accept proposed requirements, changes, or solutions, often due to concerns about cost, usability, or alignment with their needs or expectations."}
         ]
     }
 ]
