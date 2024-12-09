@@ -1,8 +1,8 @@
 export const countries = [
     {
       "name": "Albania",
-      "code": "AL",
-      "shortname": "ALB"
+      "code": "ALB",
+      "shortname": "ALBA"
     },
     {
       "name": "Algeria",
