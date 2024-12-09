@@ -14,7 +14,7 @@ export const cultureData:Array<cultureDataType> =[
     
     {
         country:"Albania",
-        code:"ALB",
+        code:"AL",
         culture:
 [
     {
