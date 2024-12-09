@@ -141,8 +141,84 @@ export const cultureData:Array<cultureDataType> =[
     }    
 
         ]
-    }
+    },
 
+    {
+        country:"Algeria",
+        code:"DZ",
+        culture:[
+        {
+            key: "Openness and Honesty",
+            value: "High",
+            description: "Openness is about sharing ideas freely, while honesty means being truthful. In individualistic cultures like the US, people are direct and open, valuing clear communication. In collectivist cultures like China, people may express honesty more subtly to maintain harmony."
+        },
+        {
+            key: "Gender segregation",
+            value: "High",
+            description: "Gender segregation refers to the division of roles, responsibilities, or decision-making processes based on gender, which can impact team dynamics, stakeholder involvement, and the inclusion of diverse perspectives."
+        },
+        {
+            key: "Clients’ resistance",
+            value: "High",
+            description: "Clients' resistance refers to the reluctance or opposition from clients to accept proposed requirements, changes, or solutions, often due to concerns about cost, usability, or alignment with their needs or expectations."
+        },
+        {
+            key: "Subordinates avoiding taking risks",
+            value: "Moderate",
+            description: "Subordinates avoiding taking risks means that lower-level team members may hesitate to make decisions or propose new ideas due to fear of making mistakes or facing negative consequences, often relying on higher authority for guidance."
+        },
+        {
+            key: "Take responsibility",
+            value: "Low",
+            description: "Take responsibility reflects a cultural tendency to prioritize accountability and ownership in decision-making and task completion."
+        },
+        {
+            key: "Hidden agenda",
+            value: "Low",
+            description: "Hidden agenda refers to the presence of unspoken motives or goals that influence stakeholder interactions and decision-making, potentially impacting transparency and collaboration."
+        },
+        {
+            key: "Letting the strongest win",
+            value: "Low",
+            description: "Letting the strongest win refers to a decision-making approach where the most dominant or influential stakeholder, idea, or solution is allowed to prevail, often based on authority or expertise, rather than consensus or equality among all participants."
+        },
+        {
+            key: "Belief in expertise",
+            value: "Low",
+            description: "Belief in expertise refers to the reliance on the knowledge, skills, and experience of specialists or experts to guide decision-making and shape requirements, often leading to a greater trust in their input and recommendations."
+        },
+        {
+            key: "Collaborative decision-making",
+            value: "N/A",
+            description: "Collaborative decision-making involves engaging multiple stakeholders to collectively analyze, discuss, and agree on requirements, fostering shared ownership and diverse perspectives."
+        },
+        {
+            key: "Managers’ influence",
+            value: "N/A",
+            description: "Managers' influence refers to the impact that managerial decisions, priorities, and authority have on shaping the direction, scope, and implementation of requirements."
+        },
+        {
+            key: "Establish trust",
+            value: "N/A",
+            description: "Establish trust refers to building confidence among stakeholders through transparent communication, reliability, and consistent actions, which fosters cooperation and effective collaboration throughout the process."
+        },
+        {
+            key: "Solving conflicts by compromising",
+            value: "N/A",
+            description: "Solving conflicts by compromising involves finding a middle ground between differing stakeholder interests or priorities, ensuring that all parties make concessions to reach an acceptable solution."
+        }
+        ]
+        }
+
+   /* 
+       {
+        country:"",
+        code:"",
+        culture:[
+        
+        ]
+        }
+        */
 
 ]
   
