@@ -33,7 +33,9 @@ export const cultureData:Array<cultureDataType> =[
         { key: "Employees’ attitude", value: "Low", description: "Employees’ attitude is the collective mindset and behavior of employees in the workplace, shaped by cultural values, perceptions, and interactions with organizational structures." } 
         ]
     },
-country:"New Zealand",
+    
+    {
+        country:"New Zealand",
         code:"NZ",
         culture:[
            { key: "Aiming for quick results", value: "High", description: "Aiming for quick results reflects a cultural preference for immediate achievements and efficiency over long-term planning and gradual progress." },
