@@ -510,7 +510,7 @@ export const cultureData:Array<cultureDataType> =[
 
     {
     country: "Sao Tome and Principe",
-    code: "STP",
+    code: "SZ",
     culture: [
         { key: "Centralised decision-making", value: "High", description: "Centralized decision-making refers to a process where decisions about requirements, priorities, and solutions are made by a single authority or a small group of individuals, rather than being distributed among multiple stakeholders." },
         { key: "Managers’ influence", value: "High", description: "Managers' influence refers to the impact that managerial decisions, priorities, and authority have on shaping the direction, scope, and implementation of requirements." },
