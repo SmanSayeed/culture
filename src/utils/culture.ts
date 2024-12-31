@@ -844,6 +844,25 @@ export const cultureData:Array<cultureDataType> =[
     ]
 },
 
+    {
+    country: "Austria",
+    code: "AT",
+    culture: [
+        { key: "Clients’ resistance", value: "High", description: "Clients' resistance refers to the reluctance or opposition from clients to accept proposed requirements, changes, or solutions, often due to concerns about cost, usability, or alignment with their needs or expectations." },
+        { key: "Subordinate avoid taking risks", value: "High", description: "Subordinates avoiding taking risks means that lower-level team members may hesitate to make decisions or propose new ideas due to fear of making mistakes or facing negative consequences, often relying on higher authority for guidance." },
+        { key: "Collaborative decision-making", value: "High", description: "Collaborative decision-making involves engaging multiple stakeholders to collectively analyze, discuss, and agree on requirements, fostering shared ownership and diverse perspectives." },
+        { key: "Managers’ influence", value: "High", description: "Managers' influence refers to the impact that managerial decisions, priorities, and authority have on shaping the direction, scope, and implementation of requirements." },
+        { key: "Establish trust", value: "High", description: "Establish trust refers to building confidence among stakeholders through transparent communication, reliability, and consistent actions, which fosters cooperation and effective collaboration throughout the process." },
+        { key: "Solving conflicts by compromising", value: "High", description: "Solving conflicts by compromising involves finding a middle ground between differing stakeholder interests or priorities, ensuring that all parties make concessions to reach an acceptable solution." },
+        { key: "Openness and Honesty", value: "Moderate", description: "Openness is about sharing ideas freely, while honesty means being truthful. In individualistic cultures like the US, people are direct and open, valuing clear communication. In collectivist cultures like China, people may express honesty more subtly to maintain harmony." },
+        { key: "Gender preference", value: "Moderate", description: "Gender Preference reflects cultural priorities between competitive, performance-driven traits and collaborative, user-centered values." },
+        { key: "Take responsibility", value: "Moderate", description: "Take responsibility reflects a cultural tendency to prioritize accountability and ownership in decision-making and task completion." },
+        { key: "Hidden agenda", value: "Moderate", description: "Hidden agenda refers to the presence of unspoken motives or goals that influence stakeholder interactions and decision-making, potentially impacting transparency and collaboration." },
+        { key: "Belief in expertise", value: "Low", description: "Belief in expertise refers to the reliance on the knowledge, skills, and experience of specialists or experts to guide decision-making and shape requirements, often leading to a greater trust in their input and recommendations." },
+        { key: "Employees’ attitude", value: "Low", description: "Employees’ attitude is the collective mindset and behavior of employees in the workplace, shaped by cultural values, perceptions, and interactions with organizational structures." }
+    ]
+},
+
     
     
     
