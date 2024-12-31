@@ -385,6 +385,12 @@ export const countries = [
       "shortname": "NOR"
     },
     {
+      "name": "North Macedonia",
+      "code": "NM",
+      "shortname": "NOR"
+    },
+    
+    {
       "name": "Oman",
       "code": "OM",
       "shortname": "OMN"
