@@ -284,7 +284,7 @@ export const cultureData:Array<cultureDataType> =[
 },
 
        {
-    country: "Guatemala",
+    country: "Iran",
     code: "GT",
     culture: [
         { key: "Centralised decision-making", value: "High", description: "Centralized decision-making refers to a process where decisions about requirements, priorities, and solutions are made by a single authority or a small group of individuals, rather than being distributed among multiple stakeholders." },
