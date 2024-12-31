@@ -458,7 +458,7 @@ export const countries = [
     
     {
       "name": "Sao Tome and Principe",
-      "code": "STP",
+      "code": "SZ",
       "shortname": "SAU"
     },
     {
