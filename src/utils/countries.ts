@@ -455,6 +455,12 @@ export const countries = [
       "code": "SA",
       "shortname": "SAU"
     },
+    
+    {
+      "name": "Sao Tome and Principe",
+      "code": "STP",
+      "shortname": "SAU"
+    },
     {
       "name": "Senegal",
       "code": "SN",
