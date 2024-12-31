@@ -387,7 +387,7 @@ export const countries = [
     {
       "name": "North Macedonia",
       "code": "NM",
-      "shortname": "NOR"
+      "shortname": "NRM"
     },
     
     {
@@ -459,7 +459,7 @@ export const countries = [
     {
       "name": "Sao Tome and Principe",
       "code": "SZ",
-      "shortname": "SAU"
+      "shortname": "STP"
     },
     {
       "name": "Senegal",
