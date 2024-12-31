@@ -582,6 +582,24 @@ export const cultureData:Array<cultureDataType> =[
     ]
 },
 
+
+    {
+    country: "Italy",
+    code: "IT",
+    culture: [
+        { key: "Building relationships", value: "High", description: "Building relationships involves establishing trust, open communication, and mutual respect among stakeholders, which fosters collaboration, facilitates the gathering of accurate requirements, and supports long-term project success." },
+        { key: "Clients’ resistance", value: "High", description: "Clients' resistance refers to the reluctance or opposition from clients to accept proposed requirements, changes, or solutions, often due to concerns about cost, usability, or alignment with their needs or expectations." },
+        { key: "Subordinate avoid taking risks", value: "High", description: "Subordinates avoiding taking risks means that lower-level team members may hesitate to make decisions or propose new ideas due to fear of making mistakes or facing negative consequences, often relying on higher authority for guidance." },
+        { key: "Empathy with users", value: "High", description: "Empathy with users involves understanding and sharing the feelings, needs, and perspectives of end users, ensuring that the requirements reflect their real-world experiences and challenges." },
+        { key: "Aiming for quick results", value: "High", description: "Aiming for quick results means focusing on fast decision-making and rapid delivery of requirements or solutions, often prioritizing speed over thorough analysis or long-term planning." },
+        { key: "Dress code", value: "High", description: "Dress Code refers to the expected or preferred style of clothing in the workplace or during meetings, which can influence professionalism, communication, and how stakeholders perceive each other during the requirements gathering process." },
+        { key: "Communication context", value: "Moderate", description: "Communication context refers to the surrounding factors, such as cultural norms, language, interpretation, and understanding among stakeholders." },
+        { key: "Gender preference", value: "Moderate", description: "Gender Preference reflects cultural priorities between competitive, performance-driven traits and collaborative, user-centered values." },
+        { key: "Relying on previous projects", value: "Moderate", description: "Relying on previous projects means using lessons, templates, or solutions from past projects as a basis for making decisions and defining requirements in current projects, to save time and reduce uncertainty." },
+        { key: "Belief in expertise", value: "Low", description: "Belief in expertise refers to the reliance on the knowledge, skills, and experience of specialists or experts to guide decision-making and shape requirements, often leading to a greater trust in their input and recommendations." }
+    ]
+},
+
     
     
     
