@@ -477,6 +477,11 @@ export const countries = [
       "shortname": "SRB"
     },
     {
+      "name": "Sierra Leone",
+      "code": "SL",
+      "shortname": "SLN"
+    },
+    {
       "name": "Singapore",
       "code": "SG",
       "shortname": "SGP"
