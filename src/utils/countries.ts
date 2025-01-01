@@ -431,6 +431,11 @@ export const countries = [
       "shortname": "PRT"
     },
     {
+      "name": "Puerto Rico",
+      "code": "PR",
+      "shortname": "PRC"
+    },
+    {
       "name": "Qatar",
       "code": "QA",
       "shortname": "QAT"
