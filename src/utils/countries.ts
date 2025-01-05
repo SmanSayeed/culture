@@ -553,6 +553,11 @@ export const countries = [
       "shortname": "TJK"
     },
     {
+      "name": "Trinidad and Tobago",
+      "code": "TT",
+      "shortname": "TTG"
+    },
+    {
       "name": "Tanzania",
       "code": "TZ",
       "shortname": "TZA"
