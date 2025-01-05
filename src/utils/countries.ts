@@ -522,6 +522,12 @@ export const countries = [
       "shortname": "SDN"
     },
     {
+      "name": "Suriname",
+      "code": "SM",
+      "shortname": "SMN"
+    },
+    
+    {
       "name": "Sweden",
       "code": "SE",
       "shortname": "SWE"
