@@ -391,11 +391,6 @@ export const countries = [
     },
     
     {
-      "name": "Oman",
-      "code": "OM",
-      "shortname": "OMN"
-    },
-    {
       "name": "Pakistan",
       "code": "PK",
       "shortname": "PAK"
